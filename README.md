@@ -3,7 +3,7 @@
 # Завантаження chromium
 Завантажте архів з браузером chromium (https://download-chromium.appspot.com/) та скопіюйте папку chrome-win у папку з завантаженним проектом
 # Налаштування
-Створіть API ключ OpenAI (https://platform.openai.com/account/api-keys) та скопіюйте його у файл api_key.txt
+Створіть API ключ OpenAI (https://platform.openai.com/account/api-keys) та скопіюйте його у файл api_key.txt.<br>
 Вкажіть розміри сторінки у файлі screen_resolution_settings.txt за шаблоном: ШИРИНА:ВИСОТА (у пікселях)
 # Запуск
 Запустити скрипт можна використоввуючи ярлик MIX-GPT
