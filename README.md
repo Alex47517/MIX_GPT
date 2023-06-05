@@ -1,5 +1,7 @@
 # MIX_GPT
 Інтеграція ChatGPT для MIX
+# Завантаження NodeJS
+Завантажте та встановіть NodeJS (https://nodejs.org/dist/v20.2.0/node-v20.2.0-x64.msi)
 # Завантаження chromium
 Завантажте архів з браузером chromium (https://download-chromium.appspot.com/) та скопіюйте папку chrome-win у папку з завантаженним проектом
 # Налаштування
